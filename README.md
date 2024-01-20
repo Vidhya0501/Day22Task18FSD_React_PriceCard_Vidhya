@@ -1,4 +1,4 @@
-![image](https://github.com/Vidhya0501/Day22Task18FSD_React_PriceCard_Vidhya/assets/136892823/cc2e3c9c-5b4a-42d7-92f2-1425ec9a84f0)
+![image](https://github.com/Vidhya0501/Day22Task18FSD_React_PriceCard_Vidhya/assets/136892823/ea52c9f6-7de4-470d-aa4b-956a9228cead)
 
 
 # Getting Started with Create React App
