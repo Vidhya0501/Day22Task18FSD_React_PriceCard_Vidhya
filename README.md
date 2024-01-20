@@ -1,3 +1,6 @@
+![image](https://github.com/Vidhya0501/Day22Task18FSD_React_PriceCard_Vidhya/assets/136892823/cc2e3c9c-5b4a-42d7-92f2-1425ec9a84f0)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
